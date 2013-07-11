@@ -1,0 +1,4 @@
+rmdir /Q /S "D:\workspace\phonegap\blackberry\Blackberry PhoneGap plug-in developer\blackberry-phonegap-plug-in-developer\www\ext"
+mklink /D "D:\workspace\phonegap\blackberry\Blackberry PhoneGap plug-in developer\blackberry-phonegap-plug-in-developer\www\ext" "D:\workspace\phonegap\blackberry\Blackberry PhoneGap plug-in developer\blackberry-phonegap-plug-in-developer\lib\cordova.2.7.0\ext"
+rmdir /Q /S "D:\workspace\phonegap\blackberry\Blackberry PhoneGap plug-in developer\blackberry-phonegap-plug-in-developer\www\ext-qnx"
+mklink /D "D:\workspace\phonegap\blackberry\Blackberry PhoneGap plug-in developer\blackberry-phonegap-plug-in-developer\www\ext-qnx" "D:\workspace\phonegap\blackberry\Blackberry PhoneGap plug-in developer\blackberry-phonegap-plug-in-developer\lib\cordova.2.7.0\ext-qnx"
